@@ -55,7 +55,7 @@ export default function MyKeyboard() {
         clear();
       }
       setClickCount(0);
-    }, 300);
+    }, 700);
   };
 
   const firstNumberDisplay = () => {
